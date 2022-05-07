@@ -4,7 +4,7 @@ const products = [{
         price: 29.99,
         instock: 100,
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        imgSrc: "../img/products/f1.jpg",
+        imgSrc: "img/products/f1.jpg",
         brand: "adidas",
     },
     {
@@ -13,7 +13,7 @@ const products = [{
         price: 24.99,
         instock: 43,
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        imgSrc: "../img/products/f2.jpg",
+        imgSrc: "img/products/f2.jpg",
         brand: "adidas",
     },
     {
@@ -22,7 +22,7 @@ const products = [{
         price: 19.99,
         instock: 10,
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        imgSrc: "../img/products/f3.jpg",
+        imgSrc: "img/products/f3.jpg",
         brand: "adidas",
     },
     {
@@ -31,7 +31,7 @@ const products = [{
         price: 25.99,
         instock: 50,
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        imgSrc: "../img/products/f4.jpg",
+        imgSrc: "img/products/f4.jpg",
         brand: "adidas",
     },
     {
@@ -40,7 +40,7 @@ const products = [{
         price: 30.99,
         instock: 100,
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        imgSrc: "../img/products/f5.jpg",
+        imgSrc: "img/products/f5.jpg",
         brand: "adidas",
     },
     {
@@ -49,7 +49,7 @@ const products = [{
         price: 32.99,
         instock: 75,
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        imgSrc: "../img/products/f6.jpg",
+        imgSrc: "img/products/f6.jpg",
         brand: "adidas",
     },
     {
@@ -58,7 +58,7 @@ const products = [{
         price: 30.99,
         instock: 100,
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        imgSrc: "../img/products/f7.jpg",
+        imgSrc: "img/products/f7.jpg",
         brand: "adidas",
     },
     {
@@ -67,7 +67,7 @@ const products = [{
         price: 36.99,
         instock: 100,
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        imgSrc: "../img/products/f8.jpg",
+        imgSrc: "img/products/f8.jpg",
         brand: "adidas",
     },
     {
@@ -76,7 +76,7 @@ const products = [{
         price: 19.99,
         instock: 20,
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        imgSrc: "../img/products/n1.jpg",
+        imgSrc: "img/products/n1.jpg",
         brand: "adidas",
     },
     {
@@ -85,7 +85,7 @@ const products = [{
         price: 19.99,
         instock: 30,
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        imgSrc: "../img/products/n2.jpg",
+        imgSrc: "img/products/n2.jpg",
         brand: "adidas",
     },
     {
@@ -94,7 +94,7 @@ const products = [{
         price: 15.99,
         instock: 5,
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        imgSrc: "../img/products/n3.jpg",
+        imgSrc: "img/products/n3.jpg",
         brand: "adidas",
     },
     {
@@ -103,7 +103,7 @@ const products = [{
         price: 16.99,
         instock: 3,
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        imgSrc: "../img/products/n4.jpg",
+        imgSrc: "img/products/n4.jpg",
         brand: "adidas",
     },
     {
@@ -112,7 +112,7 @@ const products = [{
         price: 10.99,
         instock: 10,
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        imgSrc: "../img/products/n5.jpg",
+        imgSrc: "img/products/n5.jpg",
         brand: "adidas",
     },
     {
@@ -121,7 +121,7 @@ const products = [{
         price: 20.99,
         instock: 30,
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        imgSrc: "../img/products/n6.jpg",
+        imgSrc: "img/products/n6.jpg",
         brand: "adidas",
     },
     {
@@ -130,7 +130,7 @@ const products = [{
         price: 29.99,
         instock: 100,
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        imgSrc: "../img/products/n7.jpg",
+        imgSrc: "img/products/n7.jpg",
         brand: "adidas",
     },
     {
@@ -139,7 +139,7 @@ const products = [{
         price: 29.99,
         instock: 100,
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        imgSrc: "../img/products/n8.jpg",
+        imgSrc: "img/products/n8.jpg",
         brand: "adidas",
     },
 ];
