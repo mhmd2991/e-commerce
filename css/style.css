@@ -1247,19 +1247,18 @@
 /* Start Cart Product Style  */
 .cart-product {
     position: fixed;
-    display: none;
     top: 84px;
     background-color: var(--hoverColor);
     color: var(--whiteColor);
-    right: 0;
+    right: -100%;
     width: 350px;
     min-height: 100%;
     height: auto;
     transition: all .3s ease-in-out;
 }
 
-.cart-product.show{
-    display: block;
+.cart-product.show {
+    right: 0;
 }
 
 .cart-product .close-cart {
