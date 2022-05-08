@@ -1246,7 +1246,7 @@
 /* End Cart Page Style  */
 /* Start Cart Product Style  */
 .cart-product {
-    position: absolute;
+    position: fixed;
     display: none;
     top: 84px;
     background-color: var(--hoverColor);
