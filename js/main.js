@@ -38,3 +38,8 @@ mobileCartBtn.addEventListener("click", () => {
 closeCartBtn.addEventListener("click", () => {
     cartproduct.classList.remove("show");
 });
+
+const myButton = document.querySelector("#myButton");
+myButton.addEventListener("click", () => {
+    window.location.href = 'cart.html';
+})

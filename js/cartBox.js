@@ -14,6 +14,7 @@ let cartBox = `
             <div class="subtotal">
                 SubTotal (0 items):$0
             </div>
+            <button type="button" class="normal" id="myButton">Go To Checkout</button>
             </div>
             
         </div>

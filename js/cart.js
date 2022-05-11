@@ -98,3 +98,12 @@ function removeItemFromCart(id) {
     cart = cart.filter((item) => item.id !== id);
     updateCart();
 }
+
+//Cart.html page render info
+function readInfo(){
+    cart.forEach((item) => {
+        cartPageSection.innerHTML += `
+        `;
+
+    });
+}
